@@ -1,0 +1,16 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "PraticeExperss js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon main.js"
+  },
+  "author": "Priyanka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
